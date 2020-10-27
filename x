@@ -1,1 +1,1 @@
-https://www.drupal.org/node/691984
+https://drupal.stackexchange.com/questions/118272/how-can-i-add-previous-and-next-controls-to-the-views-slide-show
