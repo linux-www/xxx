@@ -1,1 +1,1 @@
-https://drupal.stackexchange.com/questions/118272/how-can-i-add-previous-and-next-controls-to-the-views-slide-show
+https://www.w3schools.com/howto/howto_js_slideshow.asp
